@@ -1,9 +1,9 @@
-FROM golang:1.16-alpine
+FROM golang:1.15-alpine
 
 LABEL name="Golang Pipeline"
-LABEL maintainer="jesseobrien"
+LABEL maintainer="flypay"
 LABEL version="0.2.9"
-LABEL repository="https://github.com/jesseobrien/golang-pipeline"
+LABEL repository="https://github.com/flypay/golang-pipeline"
 
 LABEL com.github.actions.name="Golang Pipeline"
 LABEL com.github.actions.description="Run Golang commands"

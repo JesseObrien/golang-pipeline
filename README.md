@@ -36,7 +36,7 @@ jesseobrien/golang-pipeline/go1.14/release@master
 # Run release in Go1.15
 jesseobrien/golang-pipeline/go1.15/release@master
 # Run release in Go1.16
-jesseobrien/golang-pipeline/go1.15/release@master
+jesseobrien/golang-pipeline/go1.16/release@master
 
 ```
 
