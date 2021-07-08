@@ -14,7 +14,7 @@ curl -o- https://raw.githubusercontent.com/jesseobrien/golang-pipeline/master/in
 
 # Workflows
 
-golang-pipeline supports Go version 1.11, 1.12, 1.13, 1.14 and 1.15 and each version has its tests, linters and release.
+golang-pipeline supports Go version 1.11, 1.12, 1.13, 1.14, 1.15 and 1.16 and each version has its tests, linters and release.
 
 **Format**
 
@@ -35,6 +35,8 @@ jesseobrien/golang-pipeline/go1.13/release@master
 jesseobrien/golang-pipeline/go1.14/release@master
 # Run release in Go1.15
 jesseobrien/golang-pipeline/go1.15/release@master
+# Run release in Go1.16
+jesseobrien/golang-pipeline/go1.16/release@master
 
 ```
 
